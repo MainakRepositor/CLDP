@@ -5,6 +5,14 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/)
 
+# **Screenshots**
+![image](https://github.com/MainakRepositor/CLDP/assets/64016811/dcd9a71e-b698-41d5-848a-8acd09ac223a)
+![image](https://github.com/MainakRepositor/CLDP/assets/64016811/9e985283-7f41-4db4-bbb5-c22b65cc95b4)
+![image](https://github.com/MainakRepositor/CLDP/assets/64016811/ffe5dbcb-f58d-4566-b864-9ba84b0b4568)
+![image](https://github.com/MainakRepositor/CLDP/assets/64016811/1d363028-6acf-450d-bc88-1ba341f9a233)
+
+
+
 An end-to-end Deep Learning project to detect diseases that attack corn leaves
 
 ## **Problem Statement**
